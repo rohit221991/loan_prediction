@@ -16,6 +16,7 @@ notebook/static/built/
 notebook/static/*/js/main.min.js*
 notebook/static/lab/*bundle.js
 node_modules
+.ipynb_checkpoints
 *.py[co]
 __pycache__
 *.egg-info
